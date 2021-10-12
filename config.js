@@ -23,8 +23,7 @@ var config = {
      * 如果不要图片的话, 直接在每行开头写两个斜杠注释即可, 例如下面的 "今天是你的生日" 的图片就不会展示了:)
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
-    imgs: {
-        "teacher sherry "./imgs/xiaokeai.png",
+    imgs: https://www.google.com/search?q=cake&sxsrf=AOaemvL_sZji9q5OxlpD_-hqjqxCzPdVeQ:1633997771798&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiKl4GGzMPzAhUWzDgGHUHiAAkQ_A        "teacher sherry "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
