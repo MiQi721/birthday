@@ -13,6 +13,7 @@ var config = {
         感谢您让我们学额外的知识,
         老师，感谢您用自己的生命之光，照亮了我人生的旅途，对您我满怀感谢之情。
         
+        
     
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -23,7 +24,7 @@ var config = {
      * 如果不要图片的话, 直接在每行开头写两个斜杠注释即可, 例如下面的 "今天是你的生日" 的图片就不会展示了:)
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
-    imgs: https://www.google.com/search?q=cake&sxsrf=AOaemvL_sZji9q5OxlpD_-hqjqxCzPdVeQ:1633997771798&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiKl4GGzMPzAhUWzDgGHUHiAAkQ_A        "teacher sherry "./imgs/xiaokeai.png",
+    imgs:https:/
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -36,5 +37,15 @@ var config = {
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
+             亲爱的老师,      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        生日快乐,  // 同上...
+        身体健康,
+        快快乐乐,
+        开开心心,
+        美美丽丽,
+        感谢您教导我们,
+        感谢您让我们学额外的知识,
+        老师，感谢您用自己的生命之光，照亮了我人生的旅途，对您我满怀感谢之情。
+        
     }
 };
